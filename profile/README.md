@@ -14,8 +14,8 @@ same pipeline, same activity history, same audit trail.
 <br>
 
 [![Try okaybabe](https://img.shields.io/badge/Try_okaybabe_→-7C3AED?style=for-the-badge)](https://okaybabe.co)
-[![Documentation](https://img.shields.io/badge/📖_Documentation-18181B?style=for-the-badge)](https://okaybabe.co)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/uYZbByZSjr)
+[![Documentation](https://img.shields.io/badge/📖_Documentation-18181B?style=for-the-badge)](https://okaybabe.co)
 
 </div>
 
@@ -31,7 +31,7 @@ One CRM. Two seat types. No agent surcharges, no hidden tiers, no "AI add-ons" p
 <tr>
 <td width="65%" valign="top">
 
-### [okaybabe CRM](https://okaybabe.co) &nbsp;<sub>`okaybabe.co`</sub>
+### [okaybabe CRM](https://okaybabe.co)
 
 Pipeline, contacts, deals, activities, AI agents — all on one multi-tenant graph. Cmd+K everywhere.
 
@@ -40,7 +40,7 @@ Pipeline, contacts, deals, activities, AI agents — all on one multi-tenant gra
 </td>
 <td width="35%" valign="top">
 
-### [Join the cohort](https://discord.gg/uYZbByZSjr) &nbsp;<sub>`discord`</sub>
+### [Join the cohort](https://discord.gg/uYZbByZSjr)
 
 We let in a few teams each cohort. Discord is where the invites, roadmap previews, and cohort drops land first.
 
